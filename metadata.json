@@ -1,0 +1,5 @@
+{
+  "name": "StudyFlow",
+  "description": "A smart student schedule manager with free-slot detection and focus session tracking.",
+  "requestFramePermissions": []
+}
